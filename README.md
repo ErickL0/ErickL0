@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Erick!</h1>
 
-<!--
-**ErickL0/ErickL0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- [Active Directory HomeLab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Certifications</h2>
+
+- [CompTIA A+ Certified](https://www.credly.com/badges/b56768b8-fad1-446b-9dac-8767903e917e/linked_in?t=shcfe8)
+- [Google IT Support Certification](https://coursera.org/share/35e669d9cd7167d494eed3744a448e60)
+  
+<h2>📺 Popular YouTube Videos</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/@3rickLeon
+[linkedin]: https://linkedin.com/in/erick1808
