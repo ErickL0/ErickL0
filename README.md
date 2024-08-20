@@ -18,3 +18,7 @@
 
 [youtube]: https://www.youtube.com/@3rickLeon
 [linkedin]: https://linkedin.com/in/erick1808
+
+<br> </br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickL0)](https://github.com/anuraghazra/github-readme-stats)
