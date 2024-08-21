@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Erick 
 ### IT Support | Cybersecurity Enthusiast 
-#### 🔭I’m currently working on this page 
+🔭I’m currently working on this page 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
